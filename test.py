@@ -4,7 +4,7 @@ b = 20
 
 def plus(a,b):
   c = a+b
-  retrun c
+  return c
 
 
 
